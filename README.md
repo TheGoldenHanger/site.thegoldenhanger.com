@@ -1,2 +1,3 @@
-# site.thegoldenhanger.com
-The Golden Hanger Website
+# The Golden Hanger Website
+
+This repository contains the code for the Golden Hanger website.
